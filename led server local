@@ -1,5 +1,5 @@
 //Basit Abdul
-/ Load Wi-Fi library
+// Load Wi-Fi library
 #include <ESP8266WiFi.h>
 
 // Silahkan Sesuaikan penggunaan Jaringan internetnya
